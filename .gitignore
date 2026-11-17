@@ -41,3 +41,9 @@ app-example
 # generated native folders
 /ios
 /android
+
+# Backend Java / Maven
+api/target/
+api/data/
+*.mv.db
+*.trace.db
